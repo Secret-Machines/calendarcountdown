@@ -8,7 +8,7 @@
     "bulma": "0.7.5",
     "es7": "1.0.1",
     "luxon": "1.10.0",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "react": "16.9.0",
     "react-background-video-player": "^1.1.6",
     "react-big-calendar": "0.22.1",
